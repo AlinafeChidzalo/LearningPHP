@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(calc.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.calcu{
+    margin: auto;
+    background-color: transparent;
+    border: 2px solid whitesmoke;
+    width: 25%;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 10px, 10px, 40px;
+}
+.maininput{
+    background-color: grey;
+    border: 1px solid white;
+    height: 80px;
+    width: 98%;
+}
+
+
+
